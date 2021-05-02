@@ -1,0 +1,5 @@
+requests==2.24.0
+colorama==0.4.3
+discord==1.0.1
+pyfiglet==0.8.post1
+selenium==3.141.0

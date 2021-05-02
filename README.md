@@ -8,9 +8,9 @@ Python 3.8
 
 # Installation:
 
-1.) Start Install.bat and wait untill it finished.
-2.) Double click the nuker.py
-3.) Enjoy.
+-  1.) Start Install.bat and wait untill it finished.
+-  2.) Double click the nuker.py
+-  3.) Enjoy.
 
 # Legal usage
 
